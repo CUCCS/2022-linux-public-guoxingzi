@@ -16,11 +16,11 @@ script:
   - echo "=============================="
   - echo Task1
   - bash task1.sh -h
-  - bash task1.sh -q 50
-  - bash task1.sh -r 90%
-  - bash task1.sh -w 10 Rock
-  - bash task1.sh -p Pre
-  - bash task1.sh -s Suf
+  - bash task1.sh -q 30
+  - bash task1.sh -r 80%
+  - bash task1.sh -w 5 guoxingzi
+  - bash task1.sh -p gxz
+  - bash task1.sh -s zxg
   - bash task1.sh -t
   - echo "=============================="
   - echo Task2

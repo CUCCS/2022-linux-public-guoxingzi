@@ -17,6 +17,8 @@
 
 ## 实验内容
 
+## [实验内容详见我的travis](https://app.travis-ci.com/github/CUCCS/2022-linux-public-guoxingzi)
+
 ### 任务一：用bash编写一个图片批处理脚本，实现以下功能：
 
 - ☑️支持命令行参数方式使用不同功能
